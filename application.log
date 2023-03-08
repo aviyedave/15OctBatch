@@ -1,0 +1,61 @@
+2023-03-06 08:54:40,605  INFO [main] SauceDemo-15oct-Project:49 - Browser is opened
+2023-03-06 08:54:40,746  INFO [main] SauceDemo-15oct-Project:52 - Browser is maximized
+2023-03-06 08:54:41,963  INFO [main] SauceDemo-15oct-Project:55 - URL is Opened
+2023-03-06 08:54:42,131  INFO [main] SauceDemo-15oct-Project:58 - Screenshot is taken
+2023-03-06 08:54:42,310  INFO [main] SauceDemo-15oct-Project:72 - username is entered
+2023-03-06 08:54:42,385  INFO [main] SauceDemo-15oct-Project:75 - Password is entered
+2023-03-06 08:54:42,500  INFO [main] SauceDemo-15oct-Project:78 - login btn is clicked
+2023-03-06 08:54:42,500  INFO [main] SauceDemo-15oct-Project:80 - Went to home page
+2023-03-06 08:54:42,819  INFO [main] SauceDemo-15oct-Project:82 - Screenshot is taken
+2023-03-06 08:54:42,824  INFO [main] SauceDemo-15oct-Project:23 - Apply verification
+2023-03-06 08:54:42,909  INFO [main] SauceDemo-15oct-Project:92 - Main btn is clicked
+2023-03-06 08:54:43,027  INFO [main] SauceDemo-15oct-Project:95 - LogOut btn is clicked
+2023-03-06 08:54:43,027  INFO [main] SauceDemo-15oct-Project:97 - LoginPage Opened
+2023-03-06 08:54:43,342  INFO [main] SauceDemo-15oct-Project:105 - Browser is closed
+2023-03-06 08:54:43,342  INFO [main] SauceDemo-15oct-Project:106 - End Of Program
+2023-03-06 08:54:44,181  INFO [main] SauceDemo-15oct-Project:49 - Browser is opened
+2023-03-06 08:54:44,329  INFO [main] SauceDemo-15oct-Project:52 - Browser is maximized
+2023-03-06 08:54:45,333  INFO [main] SauceDemo-15oct-Project:55 - URL is Opened
+2023-03-06 08:54:45,495  INFO [main] SauceDemo-15oct-Project:58 - Screenshot is taken
+2023-03-06 08:54:45,604  INFO [main] SauceDemo-15oct-Project:72 - username is entered
+2023-03-06 08:54:45,685  INFO [main] SauceDemo-15oct-Project:75 - Password is entered
+2023-03-06 08:54:45,794  INFO [main] SauceDemo-15oct-Project:78 - login btn is clicked
+2023-03-06 08:54:45,794  INFO [main] SauceDemo-15oct-Project:80 - Went to home page
+2023-03-06 08:54:46,109  INFO [main] SauceDemo-15oct-Project:82 - Screenshot is taken
+2023-03-06 08:54:46,151  INFO [main] SauceDemo-15oct-Project:27 - prdt added to cart
+2023-03-06 08:54:46,152  INFO [main] SauceDemo-15oct-Project:29 - Applying validation
+2023-03-06 08:54:46,223  INFO [main] SauceDemo-15oct-Project:92 - Main btn is clicked
+2023-03-06 08:54:46,365  INFO [main] SauceDemo-15oct-Project:95 - LogOut btn is clicked
+2023-03-06 08:54:46,365  INFO [main] SauceDemo-15oct-Project:97 - LoginPage Opened
+2023-03-06 08:54:46,558  INFO [main] SauceDemo-15oct-Project:105 - Browser is closed
+2023-03-06 08:54:46,558  INFO [main] SauceDemo-15oct-Project:106 - End Of Program
+2023-03-06 08:54:47,454  INFO [main] SauceDemo-15oct-Project:49 - Browser is opened
+2023-03-06 08:54:47,593  INFO [main] SauceDemo-15oct-Project:52 - Browser is maximized
+2023-03-06 08:54:48,465  INFO [main] SauceDemo-15oct-Project:55 - URL is Opened
+2023-03-06 08:54:48,622  INFO [main] SauceDemo-15oct-Project:58 - Screenshot is taken
+2023-03-06 08:54:48,727  INFO [main] SauceDemo-15oct-Project:72 - username is entered
+2023-03-06 08:54:48,812  INFO [main] SauceDemo-15oct-Project:75 - Password is entered
+2023-03-06 08:54:48,918  INFO [main] SauceDemo-15oct-Project:78 - login btn is clicked
+2023-03-06 08:54:48,918  INFO [main] SauceDemo-15oct-Project:80 - Went to home page
+2023-03-06 08:54:49,249  INFO [main] SauceDemo-15oct-Project:82 - Screenshot is taken
+2023-03-06 08:54:49,663  INFO [main] SauceDemo-15oct-Project:23 - addAllPrdt is clicked
+2023-03-06 08:54:49,736  INFO [main] SauceDemo-15oct-Project:92 - Main btn is clicked
+2023-03-06 08:54:49,868  INFO [main] SauceDemo-15oct-Project:95 - LogOut btn is clicked
+2023-03-06 08:54:49,869  INFO [main] SauceDemo-15oct-Project:97 - LoginPage Opened
+2023-03-06 08:54:50,088  INFO [main] SauceDemo-15oct-Project:105 - Browser is closed
+2023-03-06 08:54:50,088  INFO [main] SauceDemo-15oct-Project:106 - End Of Program
+2023-03-06 08:54:50,919  INFO [main] SauceDemo-15oct-Project:49 - Browser is opened
+2023-03-06 08:54:51,045  INFO [main] SauceDemo-15oct-Project:52 - Browser is maximized
+2023-03-06 08:54:51,893  INFO [main] SauceDemo-15oct-Project:55 - URL is Opened
+2023-03-06 08:54:52,040  INFO [main] SauceDemo-15oct-Project:58 - Screenshot is taken
+2023-03-06 08:54:52,160  INFO [main] SauceDemo-15oct-Project:72 - username is entered
+2023-03-06 08:54:52,237  INFO [main] SauceDemo-15oct-Project:75 - Password is entered
+2023-03-06 08:54:52,346  INFO [main] SauceDemo-15oct-Project:78 - login btn is clicked
+2023-03-06 08:54:52,347  INFO [main] SauceDemo-15oct-Project:80 - Went to home page
+2023-03-06 08:54:52,684  INFO [main] SauceDemo-15oct-Project:82 - Screenshot is taken
+2023-03-06 08:54:52,685  INFO [main] SauceDemo-15oct-Project:21 - Applying validation
+2023-03-06 08:54:52,737  INFO [main] SauceDemo-15oct-Project:92 - Main btn is clicked
+2023-03-06 08:54:52,871  INFO [main] SauceDemo-15oct-Project:95 - LogOut btn is clicked
+2023-03-06 08:54:52,871  INFO [main] SauceDemo-15oct-Project:97 - LoginPage Opened
+2023-03-06 08:54:53,073  INFO [main] SauceDemo-15oct-Project:105 - Browser is closed
+2023-03-06 08:54:53,074  INFO [main] SauceDemo-15oct-Project:106 - End Of Program
